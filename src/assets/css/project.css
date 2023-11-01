@@ -93,3 +93,82 @@
   }
  
 }
+
+/* nav */
+.nav-home{
+  height: 250px;
+  width: 100%;
+
+}
+
+.container-nav{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.top-content{
+  display: flex;
+  flex-wrap: wrap;
+  height: 75%;
+  width: 100%;
+  padding: 20px 20px;
+  border-bottom: 1px solid black;
+}
+.section-content{
+  display: flex;
+  height: 100%;
+  width: 60%;
+  padding: 20px 20px;
+  flex-wrap: wrap;
+}
+
+.logo{ 
+  display: flex;
+  height: 50%;
+  width: 100%;
+}
+.content-nav{
+  padding: 5px 0;
+  display: flex;
+  height:70%;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.logo P{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.bot-content{
+  display: flex;
+  height:25%;
+  width: 100%;
+  padding:5px 30px;
+  border-bottom: 1px solid black;
+  list-style: none;
+
+}
+.drop{
+  margin: 0 1em 0 1em;
+}
+.button{
+  height: 40x;
+}
+.content-kiri{
+  display: flex;
+  height: 100%;
+  width: 80%;
+  padding: 15px 20px;
+}
+.content-kanan{
+  display: flex;
+  height: 100%;
+  width: 20%;
+  padding: 0 40px;
+
+}
+.content-kiri input{
+  height: 24px;
+  background-color: rebeccapurple;
+  margin: 0 0 0 1em;
+}
