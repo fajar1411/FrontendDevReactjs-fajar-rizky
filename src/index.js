@@ -6,7 +6,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Login from './pages/login/login';
-import HomePage from './component/Dashboard/content';
+import HomePage from './pages/homepage/homepage';
+
 
 
 
